@@ -1,3 +1,3 @@
-# Chrome Extensions
+# Chrome Extension Example
 
-Some Chrome extensions I created for fun :)
+Basic examples for creating Chrome extensions.
