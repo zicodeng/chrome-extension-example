@@ -1,0 +1,24 @@
+{
+    "name": "Hello World Extensions",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+    "icons": {
+        "128": "icon.png",
+        "48": "icon.png",
+        "16": "icon.png"
+    },
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+F",
+                "mac": "MacCtrl+Shift+F"
+            },
+            "description": "Opens hello-world.html"
+        }
+    }
+}
