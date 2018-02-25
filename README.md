@@ -1,3 +1,7 @@
 # Chrome Extension Example
 
-Basic examples for creating Chrome extensions.
+Some examples for creating Chrome extensions.
+
+## References
+
+https://github.com/gopinav/Chrome-Extensions
